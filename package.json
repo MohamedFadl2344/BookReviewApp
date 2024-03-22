@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "ibm_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.19.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^2.0.9",
+    "sequelize": "^6.37.1"
+  }
+}
